@@ -1,0 +1,52 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montagu Slab', serif;
+}
+body{
+    background-color:#C966A1;
+}
+.texto{
+    font-size:  80px;
+    align-items: center;
+    margin: 15px;
+    text-shadow: -4px 4px 16px rgba(0,0,0,0.35);
+}
+.pai{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin-top: 80px;
+}
+
+.icon{
+    width: 175px;
+    margin: 30px;
+}
+
+.lupa{
+    margin-left: 300px;
+    width: 60px;
+   
+}
+
+.barra{
+    width: 870px;
+    height: 50px;
+    background-color: #f5f5f5c2;
+    margin-left: 450px;
+    border-radius: 13px;
+    margin-top: -60px;
+}
+
+.buscar{
+    width: 150px;
+    height: 57px;
+    background-color: #f5f5f5c2;
+    margin-left: 1400px;
+    border-radius: 13px;
+    margin-top: -60px;
+
+}
