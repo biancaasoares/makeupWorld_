@@ -1,7 +1,7 @@
 'use strict'
 
 async function resposta() {
-    const url = "http://makeup-api.herokuapp.com/api/v1/products.json"
+    const url = "https://makeup-api.herokuapp.com/api/v1/products.json"
     const pesquisa = document.getElementById('pesquisa').value
     const resultadosDiv = document.getElementById('resultados')
     const mensagemCarregamento = document.getElementById('mensagem-carregamento')
