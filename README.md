@@ -16,7 +16,7 @@
 <p> Primeiramente haverá uma barra de pesquisa, em que o usuário irá inserir o nome do produto que deseja, ou uma palavra-chave (ultilizando o filtro), em que com um click na "lupa", o programa retornará cards com os nomes dos produtros ou associados a palavra-chave ultilizada. </p>
 
 ## Limitações:
-<p> O projeto <strong>Makeup World</strong> só é capaz de retornar ao usuário os nomes dos produtos pesquisados. </p>
+<p> O projeto <strong>Makeup World</strong> só é capaz de retornar ao usuário os nomes dos produtos, e é preciso a  pesquisa ser em <strong> inglês <strong>.</p>
 
 
 ## Ferramentas utilizadas:
